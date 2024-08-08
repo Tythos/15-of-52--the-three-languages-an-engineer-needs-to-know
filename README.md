@@ -82,6 +82,8 @@ If you only know languages that quality for each of these three layers, you're g
 
 Purely for the sake of "getting around" your development systems, you will likely need to learn some degree of shell scripting. If you're on Linux, for example, learn to write a `.sh` script. On Windows, learn how to write a `.bat` file. Automating system actions (including basic variable assignment, pipe manipulation/integration, and control flow statements) is an invaluable way to save time and headache. Many, *MANY* tasks you will need to function will greatly benefit from the ability to automate it with a small shell script.
 
+![the classic thinkgeek tshirt, rip](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xg9s5nhfcjok3ub3mp02.jpg)
+
 Interestingly, Python started out as a cross-platform scripting language for the scientific computing community! While it's since grown into a GPL (a lot of languages do this, much like Zig is growing into a GPL having started out as a systems-programming language), it still has very potent capacity as a scripting language for automation (think about the `os`, `sys`, and `subprocess` core modules, for example). Bonus points for crossing off two categories with the same language, of course!
 
 ### Domain-Specific Languages
